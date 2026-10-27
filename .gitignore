@@ -27,6 +27,8 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env*
+!.env.example
 
 # vercel
 .vercel
@@ -38,3 +40,9 @@ next-env.d.ts
 # SQLite / Prisma
 prisma/*.db
 prisma/*.db-journal
+
+node_modules/
+.next/
+.vercel/
+.env*
+!.env.example
