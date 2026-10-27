@@ -1,0 +1,81 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id              String            @id @default(cuid())
+  email           String            @unique
+  name            String?
+  password        String
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
+  workouts        Workout[]
+  goals           Goal[]
+  progressRecords ProgressRecord[]
+  preferences     UserPreference?
+}
+
+model Workout {
+  id        String        @id @default(cuid())
+  name      String
+  date      DateTime      @default(now())
+  duration  Int?          // in minutes
+  type      String?
+  notes     String?
+  userId    String
+  user      User          @relation(fields: [userId], references: [id])
+  exercises Exercise[]
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
+}
+
+model Exercise {
+  id        String       @id @default(cuid())
+  name      String
+  workoutId String
+  workout   Workout      @relation(fields: [workoutId], references: [id], onDelete: Cascade)
+  sets      WorkoutSet[]
+}
+
+model WorkoutSet {
+  id         String   @id @default(cuid())
+  reps       Int
+  weight     Float?
+  exerciseId String
+  exercise   Exercise @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+}
+
+model Goal {
+  id              String   @id @default(cuid())
+  title           String
+  type            String   // frequency, strength, consistency, etc.
+  target          Float
+  currentProgress Float    @default(0)
+  deadline        DateTime?
+  userId          String
+  user            User     @relation(fields: [userId], references: [id])
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model ProgressRecord {
+  id        String   @id @default(cuid())
+  date      DateTime @default(now())
+  weight    Float?
+  bodyFat   Float?
+  notes     String?
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+}
+
+model UserPreference {
+  id       String @id @default(cuid())
+  userId   String @unique
+  user     User   @relation(fields: [userId], references: [id])
+  language String @default("en") // "en" or "hi"
+}

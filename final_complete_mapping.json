@@ -1,0 +1,2046 @@
+{
+  "barbell-bench-press": {
+    "id": "barbell-bench-press",
+    "name": "Barbell Bench Press",
+    "muscle": "Chest",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/barbell-bench-press.png",
+    "downloadUrl": null
+  },
+  "incline-barbell-bench-press": {
+    "id": "incline-barbell-bench-press",
+    "name": "Incline Barbell Bench Press",
+    "muscle": "Chest",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/incline-barbell-bench-press.png",
+    "downloadUrl": null
+  },
+  "decline-barbell-bench-press": {
+    "id": "decline-barbell-bench-press",
+    "name": "Decline Barbell Bench Press",
+    "muscle": "Chest",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/decline-barbell-bench-press.png",
+    "downloadUrl": null
+  },
+  "flat-dumbbell-bench-press": {
+    "id": "flat-dumbbell-bench-press",
+    "name": "Flat Dumbbell Bench Press",
+    "muscle": "Chest",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/flat-dumbbell-bench-press.png",
+    "downloadUrl": null
+  },
+  "incline-dumbbell-press": {
+    "id": "incline-dumbbell-press",
+    "name": "Incline Dumbbell Press",
+    "muscle": "Chest",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/incline-dumbbell-press.png",
+    "downloadUrl": null
+  },
+  "decline-dumbbell-press": {
+    "id": "decline-dumbbell-press",
+    "name": "Decline Dumbbell Press",
+    "muscle": "Chest",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/decline-dumbbell-press.png",
+    "downloadUrl": null
+  },
+  "dumbbell-chest-fly": {
+    "id": "dumbbell-chest-fly",
+    "name": "Dumbbell Chest Fly",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-chest-fly.webp",
+    "fileName": "dumbbell-chest-fly.webp",
+    "repdbId": "db-fly",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/db-fly-peak.webp"
+  },
+  "incline-dumbbell-fly": {
+    "id": "incline-dumbbell-fly",
+    "name": "Incline Dumbbell Fly",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/incline-dumbbell-fly.webp",
+    "fileName": "incline-dumbbell-fly.webp",
+    "repdbId": "incline-dumbbell-fly",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/incline-dumbbell-fly-peak.webp"
+  },
+  "cable-chest-fly": {
+    "id": "cable-chest-fly",
+    "name": "Cable Chest Fly",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cable-chest-fly.webp",
+    "fileName": "cable-chest-fly.webp",
+    "repdbId": "cable-fly",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-fly-peak.webp"
+  },
+  "low-to-high-cable-fly": {
+    "id": "low-to-high-cable-fly",
+    "name": "Low-to-High Cable Fly",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/low-to-high-cable-fly.webp",
+    "fileName": "low-to-high-cable-fly.webp",
+    "repdbId": "cable-fly",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-fly-peak.webp"
+  },
+  "high-to-low-cable-fly": {
+    "id": "high-to-low-cable-fly",
+    "name": "High-to-Low Cable Fly",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/high-to-low-cable-fly.webp",
+    "fileName": "high-to-low-cable-fly.webp",
+    "repdbId": "cable-fly",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-fly-peak.webp"
+  },
+  "machine-chest-press": {
+    "id": "machine-chest-press",
+    "name": "Machine Chest Press",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/machine-chest-press.webp",
+    "fileName": "machine-chest-press.webp",
+    "repdbId": "chest-press-machine",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/chest-press-machine-peak.webp"
+  },
+  "pec-deck-fly": {
+    "id": "pec-deck-fly",
+    "name": "Pec Deck Fly",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/pec-deck-fly.webp",
+    "fileName": "pec-deck-fly.webp",
+    "repdbId": "machine-chest-fly",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/machine-chest-fly-peak.webp"
+  },
+  "push-ups": {
+    "id": "push-ups",
+    "name": "Push-Ups",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/push-ups.webp",
+    "fileName": "push-ups.webp",
+    "repdbId": "push-up",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/push-up-peak.webp"
+  },
+  "wide-grip-push-ups": {
+    "id": "wide-grip-push-ups",
+    "name": "Wide-Grip Push-Ups",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/wide-grip-push-ups.webp",
+    "fileName": "wide-grip-push-ups.webp",
+    "repdbId": "wide-grip-push-ups",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/wide-grip-push-ups-peak.webp"
+  },
+  "incline-push-ups": {
+    "id": "incline-push-ups",
+    "name": "Incline Push-Ups",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/incline-push-ups.webp",
+    "fileName": "incline-push-ups.webp",
+    "repdbId": "incline-push-ups",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/incline-push-ups-peak.webp"
+  },
+  "decline-push-ups": {
+    "id": "decline-push-ups",
+    "name": "Decline Push-Ups",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/decline-push-ups.webp",
+    "fileName": "decline-push-ups.webp",
+    "repdbId": "decline-push-up",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/decline-push-up-peak.webp"
+  },
+  "chest-dips": {
+    "id": "chest-dips",
+    "name": "Chest Dips",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/chest-dips.webp",
+    "fileName": "chest-dips.webp",
+    "repdbId": "dips",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dips-peak.webp"
+  },
+  "dumbbell-pullover": {
+    "id": "dumbbell-pullover",
+    "name": "Dumbbell Pullover",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-pullover.webp",
+    "fileName": "dumbbell-pullover.webp",
+    "repdbId": "plate-pullover",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/plate-pullover-peak.webp"
+  },
+  "smith-machine-bench-press": {
+    "id": "smith-machine-bench-press",
+    "name": "Smith Machine Bench Press",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/smith-machine-bench-press.webp",
+    "fileName": "smith-machine-bench-press.webp",
+    "repdbId": "smith-machine-bench-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/smith-machine-bench-press-peak.webp"
+  },
+  "barbell-floor-press": {
+    "id": "barbell-floor-press",
+    "name": "Barbell Floor Press",
+    "muscle": "Chest",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/barbell-floor-press.webp",
+    "fileName": "barbell-floor-press.webp",
+    "repdbId": "floor-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/floor-press-peak.webp"
+  },
+  "pull-up": {
+    "id": "pull-up",
+    "name": "Pull-Ups",
+    "muscle": "Back",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/pull-up.png",
+    "downloadUrl": null
+  },
+  "chin-ups": {
+    "id": "chin-ups",
+    "name": "Chin-Ups",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/chin-ups.webp",
+    "fileName": "chin-ups.webp",
+    "repdbId": "chin-ups",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/chin-ups-peak.webp"
+  },
+  "lat-pulldown": {
+    "id": "lat-pulldown",
+    "name": "Lat Pulldown",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/lat-pulldown.webp",
+    "fileName": "lat-pulldown.webp",
+    "repdbId": "lat-pulldown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/lat-pulldown-peak.webp"
+  },
+  "close-grip-lat-pulldown": {
+    "id": "close-grip-lat-pulldown",
+    "name": "Close-Grip Lat Pulldown",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/close-grip-lat-pulldown.webp",
+    "fileName": "close-grip-lat-pulldown.webp",
+    "repdbId": "close-grip-lat-pulldown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/close-grip-lat-pulldown-peak.webp"
+  },
+  "neutral-grip-lat-pulldown": {
+    "id": "neutral-grip-lat-pulldown",
+    "name": "Neutral-Grip Lat Pulldown",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/neutral-grip-lat-pulldown.webp",
+    "fileName": "neutral-grip-lat-pulldown.webp",
+    "repdbId": "v-bar-lat-pulldown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/v-bar-lat-pulldown-peak.webp"
+  },
+  "barbell-bent-over-row": {
+    "id": "barbell-bent-over-row",
+    "name": "Barbell Bent-Over Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/barbell-bent-over-row.webp",
+    "fileName": "barbell-bent-over-row.webp",
+    "repdbId": "barbell-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/barbell-row-peak.webp"
+  },
+  "pendlay-row": {
+    "id": "pendlay-row",
+    "name": "Pendlay Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/pendlay-row.webp",
+    "fileName": "pendlay-row.webp",
+    "repdbId": "pendlay-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/pendlay-row-peak.webp"
+  },
+  "one-arm-dumbbell-row": {
+    "id": "one-arm-dumbbell-row",
+    "name": "One-Arm Dumbbell Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/one-arm-dumbbell-row.webp",
+    "fileName": "one-arm-dumbbell-row.webp",
+    "repdbId": "single-arm-db-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-arm-db-row-peak.webp"
+  },
+  "seated-cable-row": {
+    "id": "seated-cable-row",
+    "name": "Seated Cable Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/seated-cable-row.webp",
+    "fileName": "seated-cable-row.webp",
+    "repdbId": "seated-cable-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-cable-row-peak.webp"
+  },
+  "chest-supported-row": {
+    "id": "chest-supported-row",
+    "name": "Chest-Supported Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/chest-supported-row.webp",
+    "fileName": "chest-supported-row.webp",
+    "repdbId": "chest-supported-db-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/chest-supported-db-row-peak.webp"
+  },
+  "t-bar-row": {
+    "id": "t-bar-row",
+    "name": "T-Bar Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/t-bar-row.webp",
+    "fileName": "t-bar-row.webp",
+    "repdbId": "t-bar-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/t-bar-row-peak.webp"
+  },
+  "machine-row": {
+    "id": "machine-row",
+    "name": "Machine Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/machine-row.webp",
+    "fileName": "machine-row.webp",
+    "repdbId": "seated-cable-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-cable-row-peak.webp"
+  },
+  "inverted-row": {
+    "id": "inverted-row",
+    "name": "Inverted Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/inverted-row.webp",
+    "fileName": "inverted-row.webp",
+    "repdbId": "inverted-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/inverted-row-peak.webp"
+  },
+  "straight-arm-cable-pulldown": {
+    "id": "straight-arm-cable-pulldown",
+    "name": "Straight-Arm Cable Pulldown",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/straight-arm-cable-pulldown.webp",
+    "fileName": "straight-arm-cable-pulldown.webp",
+    "repdbId": "straight-arm-pulldown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/straight-arm-pulldown-peak.webp"
+  },
+  "rack-pull": {
+    "id": "rack-pull",
+    "name": "Rack Pull",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/rack-pull.webp",
+    "fileName": "rack-pull.webp",
+    "repdbId": "rack-pull",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/rack-pull-peak.webp"
+  },
+  "conventional-deadlift": {
+    "id": "conventional-deadlift",
+    "name": "Conventional Deadlift",
+    "muscle": "Back",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/conventional-deadlift.png",
+    "downloadUrl": null
+  },
+  "back-extensions": {
+    "id": "back-extensions",
+    "name": "Back Extensions",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/back-extensions.webp",
+    "fileName": "back-extensions.webp",
+    "repdbId": "back-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/back-extension-peak.webp"
+  },
+  "face-pulls": {
+    "id": "face-pulls",
+    "name": "Face Pulls",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/face-pulls.webp",
+    "fileName": "face-pulls.webp",
+    "repdbId": "face-pull",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/face-pull-peak.webp"
+  },
+  "meadows-row": {
+    "id": "meadows-row",
+    "name": "Meadows Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/meadows-row.webp",
+    "fileName": "meadows-row.webp",
+    "repdbId": "single-arm-db-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-arm-db-row-peak.webp"
+  },
+  "kroc-row": {
+    "id": "kroc-row",
+    "name": "Kroc Row",
+    "muscle": "Back",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/kroc-row.webp",
+    "fileName": "kroc-row.webp",
+    "repdbId": "single-arm-db-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-arm-db-row-peak.webp"
+  },
+  "barbell-overhead-press": {
+    "id": "barbell-overhead-press",
+    "name": "Barbell Overhead Press",
+    "muscle": "Shoulders",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/barbell-overhead-press.png",
+    "downloadUrl": null
+  },
+  "seated-dumbbell-shoulder-press": {
+    "id": "seated-dumbbell-shoulder-press",
+    "name": "Seated Dumbbell Shoulder Press",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/seated-dumbbell-shoulder-press.webp",
+    "fileName": "seated-dumbbell-shoulder-press.webp",
+    "repdbId": "seated-db-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-db-press-peak.webp"
+  },
+  "standing-dumbbell-shoulder-press": {
+    "id": "standing-dumbbell-shoulder-press",
+    "name": "Standing Dumbbell Shoulder Press",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/standing-dumbbell-shoulder-press.webp",
+    "fileName": "standing-dumbbell-shoulder-press.webp",
+    "repdbId": "dumbbell-floor-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-floor-press-peak.webp"
+  },
+  "arnold-press": {
+    "id": "arnold-press",
+    "name": "Arnold Press",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/arnold-press.webp",
+    "fileName": "arnold-press.webp",
+    "repdbId": "arnold-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/arnold-press-peak.webp"
+  },
+  "machine-shoulder-press": {
+    "id": "machine-shoulder-press",
+    "name": "Machine Shoulder Press",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/machine-shoulder-press.webp",
+    "fileName": "machine-shoulder-press.webp",
+    "repdbId": "machine-shoulder-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/machine-shoulder-press-peak.webp"
+  },
+  "dumbbell-lateral-raise": {
+    "id": "dumbbell-lateral-raise",
+    "name": "Dumbbell Lateral Raise",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-lateral-raise.webp",
+    "fileName": "dumbbell-lateral-raise.webp",
+    "repdbId": "lateral-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/lateral-raise-peak.webp"
+  },
+  "cable-lateral-raise": {
+    "id": "cable-lateral-raise",
+    "name": "Cable Lateral Raise",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cable-lateral-raise.webp",
+    "fileName": "cable-lateral-raise.webp",
+    "repdbId": "cable-lateral-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-lateral-raise-peak.webp"
+  },
+  "machine-lateral-raise": {
+    "id": "machine-lateral-raise",
+    "name": "Machine Lateral Raise",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/machine-lateral-raise.webp",
+    "fileName": "machine-lateral-raise.webp",
+    "repdbId": "plate-loaded-lateral-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/plate-loaded-lateral-raise-peak.webp"
+  },
+  "front-dumbbell-raise": {
+    "id": "front-dumbbell-raise",
+    "name": "Front Dumbbell Raise",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/front-dumbbell-raise.webp",
+    "fileName": "front-dumbbell-raise.webp",
+    "repdbId": "dumbbell-front-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-front-raise-peak.webp"
+  },
+  "cable-front-raise": {
+    "id": "cable-front-raise",
+    "name": "Cable Front Raise",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cable-front-raise.webp",
+    "fileName": "cable-front-raise.webp",
+    "repdbId": "cable-front-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-front-raise-peak.webp"
+  },
+  "rear-delt-dumbbell-fly": {
+    "id": "rear-delt-dumbbell-fly",
+    "name": "Rear Delt Dumbbell Fly",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/rear-delt-dumbbell-fly.webp",
+    "fileName": "rear-delt-dumbbell-fly.webp",
+    "repdbId": "dumbbell-reverse-fly",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-reverse-fly-peak.webp"
+  },
+  "reverse-pec-deck": {
+    "id": "reverse-pec-deck",
+    "name": "Reverse Pec Deck",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/reverse-pec-deck.webp",
+    "fileName": "reverse-pec-deck.webp",
+    "repdbId": "rear-delt-fly",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/rear-delt-fly-peak.webp"
+  },
+  "cable-rear-delt-fly": {
+    "id": "cable-rear-delt-fly",
+    "name": "Cable Rear Delt Fly",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cable-rear-delt-fly.webp",
+    "fileName": "cable-rear-delt-fly.webp",
+    "repdbId": "cable-lateral-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-lateral-raise-peak.webp"
+  },
+  "upright-row": {
+    "id": "upright-row",
+    "name": "Upright Row",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/upright-row.webp",
+    "fileName": "upright-row.webp",
+    "repdbId": "upright-row",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/upright-row-peak.webp"
+  },
+  "landmine-press": {
+    "id": "landmine-press",
+    "name": "Landmine Press",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/landmine-press.webp",
+    "fileName": "landmine-press.webp",
+    "repdbId": "behind-the-neck-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/behind-the-neck-press-peak.webp"
+  },
+  "push-press": {
+    "id": "push-press",
+    "name": "Push Press",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/push-press.webp",
+    "fileName": "push-press.webp",
+    "repdbId": "double-kettlebell-push-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/double-kettlebell-push-press-peak.webp"
+  },
+  "dumbbell-y-raise": {
+    "id": "dumbbell-y-raise",
+    "name": "Dumbbell Y-Raise",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-y-raise.webp",
+    "fileName": "dumbbell-y-raise.webp",
+    "repdbId": "lateral-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/lateral-raise-peak.webp"
+  },
+  "leaning-lateral-raise": {
+    "id": "leaning-lateral-raise",
+    "name": "Leaning Lateral Raise",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/leaning-lateral-raise.webp",
+    "fileName": "leaning-lateral-raise.webp",
+    "repdbId": "side-lying-lateral-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/side-lying-lateral-raise-peak.webp"
+  },
+  "pike-push-ups": {
+    "id": "pike-push-ups",
+    "name": "Pike Push-Ups",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/pike-push-ups.webp",
+    "fileName": "pike-push-ups.webp",
+    "repdbId": "pike-push-ups",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/pike-push-ups-peak.webp"
+  },
+  "behind-the-neck-press": {
+    "id": "behind-the-neck-press",
+    "name": "Behind-the-Neck Press",
+    "muscle": "Shoulders",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/behind-the-neck-press.webp",
+    "fileName": "behind-the-neck-press.webp",
+    "repdbId": "behind-the-neck-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/behind-the-neck-press-peak.webp"
+  },
+  "standing-barbell-curl": {
+    "id": "standing-barbell-curl",
+    "name": "Standing Barbell Curl",
+    "muscle": "Biceps",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/standing-barbell-curl.png",
+    "downloadUrl": null
+  },
+  "ez-bar-curl": {
+    "id": "ez-bar-curl",
+    "name": "EZ-Bar Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/ez-bar-curl.webp",
+    "fileName": "ez-bar-curl.webp",
+    "repdbId": "ez-bar-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/ez-bar-curl-peak.webp"
+  },
+  "alternating-dumbbell-curl": {
+    "id": "alternating-dumbbell-curl",
+    "name": "Alternating Dumbbell Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/alternating-dumbbell-curl.webp",
+    "fileName": "alternating-dumbbell-curl.webp",
+    "repdbId": "bicep-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/bicep-curl-peak.webp"
+  },
+  "seated-dumbbell-curl": {
+    "id": "seated-dumbbell-curl",
+    "name": "Seated Dumbbell Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/seated-dumbbell-curl.webp",
+    "fileName": "seated-dumbbell-curl.webp",
+    "repdbId": "seated-dumbbell-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-dumbbell-curl-peak.webp"
+  },
+  "incline-dumbbell-curl": {
+    "id": "incline-dumbbell-curl",
+    "name": "Incline Dumbbell Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/incline-dumbbell-curl.webp",
+    "fileName": "incline-dumbbell-curl.webp",
+    "repdbId": "incline-db-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/incline-db-curl-peak.webp"
+  },
+  "hammer-curl": {
+    "id": "hammer-curl",
+    "name": "Hammer Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/hammer-curl.webp",
+    "fileName": "hammer-curl.webp",
+    "repdbId": "hammer-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/hammer-curl-peak.webp"
+  },
+  "cross-body-hammer-curl": {
+    "id": "cross-body-hammer-curl",
+    "name": "Cross-Body Hammer Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cross-body-hammer-curl.webp",
+    "fileName": "cross-body-hammer-curl.webp",
+    "repdbId": "cross-body-hammer-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cross-body-hammer-curl-peak.webp"
+  },
+  "preacher-curl": {
+    "id": "preacher-curl",
+    "name": "Preacher Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/preacher-curl.webp",
+    "fileName": "preacher-curl.webp",
+    "repdbId": "preacher-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/preacher-curl-peak.webp"
+  },
+  "machine-preacher-curl": {
+    "id": "machine-preacher-curl",
+    "name": "Machine Preacher Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/machine-preacher-curl.webp",
+    "fileName": "machine-preacher-curl.webp",
+    "repdbId": "machine-preacher-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/machine-preacher-curl-peak.webp"
+  },
+  "concentration-curl": {
+    "id": "concentration-curl",
+    "name": "Concentration Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/concentration-curl.webp",
+    "fileName": "concentration-curl.webp",
+    "repdbId": "concentration-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/concentration-curl-peak.webp"
+  },
+  "cable-biceps-curl": {
+    "id": "cable-biceps-curl",
+    "name": "Cable Biceps Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cable-biceps-curl.webp",
+    "fileName": "cable-biceps-curl.webp",
+    "repdbId": "cable-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-curl-peak.webp"
+  },
+  "bayesian-cable-curl": {
+    "id": "bayesian-cable-curl",
+    "name": "Bayesian Cable Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/bayesian-cable-curl.webp",
+    "fileName": "bayesian-cable-curl.webp",
+    "repdbId": "cable-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-curl-peak.webp"
+  },
+  "spider-curl": {
+    "id": "spider-curl",
+    "name": "Spider Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/spider-curl.webp",
+    "fileName": "spider-curl.webp",
+    "repdbId": "spider-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/spider-curl-peak.webp"
+  },
+  "drag-curl": {
+    "id": "drag-curl",
+    "name": "Drag Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/drag-curl.webp",
+    "fileName": "drag-curl.webp",
+    "repdbId": "drag-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/drag-curl-peak.webp"
+  },
+  "reverse-curl": {
+    "id": "reverse-curl",
+    "name": "Reverse Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/reverse-curl.webp",
+    "fileName": "reverse-curl.webp",
+    "repdbId": "reverse-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/reverse-curl-peak.webp"
+  },
+  "zottman-curl": {
+    "id": "zottman-curl",
+    "name": "Zottman Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/zottman-curl.webp",
+    "fileName": "zottman-curl.webp",
+    "repdbId": "zottman-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/zottman-curl-peak.webp"
+  },
+  "resistance-band-curl": {
+    "id": "resistance-band-curl",
+    "name": "Resistance Band Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/resistance-band-curl.webp",
+    "fileName": "resistance-band-curl.webp",
+    "repdbId": "banded-standing-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/banded-standing-curl-peak.webp"
+  },
+  "high-cable-curl": {
+    "id": "high-cable-curl",
+    "name": "High Cable Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/high-cable-curl.webp",
+    "fileName": "high-cable-curl.webp",
+    "repdbId": "cable-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-curl-peak.webp"
+  },
+  "single-arm-cable-curl": {
+    "id": "single-arm-cable-curl",
+    "name": "Single-Arm Cable Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/single-arm-cable-curl.webp",
+    "fileName": "single-arm-cable-curl.webp",
+    "repdbId": "cable-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-curl-peak.webp"
+  },
+  "waiter-curl": {
+    "id": "waiter-curl",
+    "name": "Waiter Curl",
+    "muscle": "Biceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/waiter-curl.webp",
+    "fileName": "waiter-curl.webp",
+    "repdbId": "bicep-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/bicep-curl-peak.webp"
+  },
+  "cable-pushdown": {
+    "id": "cable-pushdown",
+    "name": "Cable Triceps Pushdown",
+    "muscle": "Triceps",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/cable-pushdown.png",
+    "downloadUrl": null
+  },
+  "rope-triceps-pushdown": {
+    "id": "rope-triceps-pushdown",
+    "name": "Rope Triceps Pushdown",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/rope-triceps-pushdown.webp",
+    "fileName": "rope-triceps-pushdown.webp",
+    "repdbId": "tricep-pushdown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/tricep-pushdown-peak.webp"
+  },
+  "straight-bar-pushdown": {
+    "id": "straight-bar-pushdown",
+    "name": "Straight-Bar Pushdown",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/straight-bar-pushdown.webp",
+    "fileName": "straight-bar-pushdown.webp",
+    "repdbId": "v-bar-tricep-pushdown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/v-bar-tricep-pushdown-peak.webp"
+  },
+  "reverse-grip-pushdown": {
+    "id": "reverse-grip-pushdown",
+    "name": "Reverse-Grip Pushdown",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/reverse-grip-pushdown.webp",
+    "fileName": "reverse-grip-pushdown.webp",
+    "repdbId": "tricep-pushdown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/tricep-pushdown-peak.webp"
+  },
+  "overhead-dumbbell-triceps-extension": {
+    "id": "overhead-dumbbell-triceps-extension",
+    "name": "Overhead Dumbbell Triceps Extension",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/overhead-dumbbell-triceps-extension.webp",
+    "fileName": "overhead-dumbbell-triceps-extension.webp",
+    "repdbId": "seated-dumbbell-tricep-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-dumbbell-tricep-extension-peak.webp"
+  },
+  "overhead-cable-triceps-extension": {
+    "id": "overhead-cable-triceps-extension",
+    "name": "Overhead Cable Triceps Extension",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/overhead-cable-triceps-extension.webp",
+    "fileName": "overhead-cable-triceps-extension.webp",
+    "repdbId": "overhead-tricep-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/overhead-tricep-extension-peak.webp"
+  },
+  "ez-bar-skull-crushers": {
+    "id": "ez-bar-skull-crushers",
+    "name": "EZ-Bar Skull Crushers",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/ez-bar-skull-crushers.webp",
+    "fileName": "ez-bar-skull-crushers.webp",
+    "repdbId": "ez-bar-lying-tricep-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/ez-bar-lying-tricep-extension-peak.webp"
+  },
+  "dumbbell-skull-crushers": {
+    "id": "dumbbell-skull-crushers",
+    "name": "Dumbbell Skull Crushers",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-skull-crushers.webp",
+    "fileName": "dumbbell-skull-crushers.webp",
+    "repdbId": "lying-tricep-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/lying-tricep-extension-peak.webp"
+  },
+  "close-grip-bench-press": {
+    "id": "close-grip-bench-press",
+    "name": "Close-Grip Bench Press",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/close-grip-bench-press.webp",
+    "fileName": "close-grip-bench-press.webp",
+    "repdbId": "close-grip-bench-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/close-grip-bench-press-peak.webp"
+  },
+  "diamond-push-ups": {
+    "id": "diamond-push-ups",
+    "name": "Diamond Push-Ups",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/diamond-push-ups.webp",
+    "fileName": "diamond-push-ups.webp",
+    "repdbId": "diamond-push-ups",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/diamond-push-ups-peak.webp"
+  },
+  "bench-dips": {
+    "id": "bench-dips",
+    "name": "Bench Dips",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/bench-dips.webp",
+    "fileName": "bench-dips.webp",
+    "repdbId": "bench-dips",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/bench-dips-peak.webp"
+  },
+  "assisted-triceps-dips": {
+    "id": "assisted-triceps-dips",
+    "name": "Assisted Triceps Dips",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/assisted-triceps-dips.webp",
+    "fileName": "assisted-triceps-dips.webp",
+    "repdbId": "assisted-dips",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/assisted-dips-peak.webp"
+  },
+  "single-arm-cable-extension": {
+    "id": "single-arm-cable-extension",
+    "name": "Single-Arm Cable Extension",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/single-arm-cable-extension.webp",
+    "fileName": "single-arm-cable-extension.webp",
+    "repdbId": "single-arm-tricep-pushdown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-arm-tricep-pushdown-peak.webp"
+  },
+  "cross-body-cable-triceps-extension": {
+    "id": "cross-body-cable-triceps-extension",
+    "name": "Cross-Body Cable Triceps Extension",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cross-body-cable-triceps-extension.webp",
+    "fileName": "cross-body-cable-triceps-extension.webp",
+    "repdbId": "single-arm-tricep-pushdown",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-arm-tricep-pushdown-peak.webp"
+  },
+  "lying-triceps-extension": {
+    "id": "lying-triceps-extension",
+    "name": "Lying Triceps Extension",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/lying-triceps-extension.webp",
+    "fileName": "lying-triceps-extension.webp",
+    "repdbId": "lying-tricep-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/lying-tricep-extension-peak.webp"
+  },
+  "seated-machine-triceps-extension": {
+    "id": "seated-machine-triceps-extension",
+    "name": "Seated Machine Triceps Extension",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/seated-machine-triceps-extension.webp",
+    "fileName": "seated-machine-triceps-extension.webp",
+    "repdbId": "machine-triceps-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/machine-triceps-extension-peak.webp"
+  },
+  "dumbbell-kickbacks": {
+    "id": "dumbbell-kickbacks",
+    "name": "Dumbbell Kickbacks",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-kickbacks.webp",
+    "fileName": "dumbbell-kickbacks.webp",
+    "repdbId": "tricep-kickback",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/tricep-kickback-peak.webp"
+  },
+  "cable-kickbacks": {
+    "id": "cable-kickbacks",
+    "name": "Cable Kickbacks",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cable-kickbacks.webp",
+    "fileName": "cable-kickbacks.webp",
+    "repdbId": "cable-tricep-kickback",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-tricep-kickback-peak.webp"
+  },
+  "tate-press": {
+    "id": "tate-press",
+    "name": "Tate Press",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/tate-press.webp",
+    "fileName": "tate-press.webp",
+    "repdbId": "lying-tricep-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/lying-tricep-extension-peak.webp"
+  },
+  "jm-press": {
+    "id": "jm-press",
+    "name": "JM Press",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/jm-press.webp",
+    "fileName": "jm-press.webp",
+    "repdbId": "close-grip-bench-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/close-grip-bench-press-peak.webp"
+  },
+  "parallel-bar-triceps-dips": {
+    "id": "parallel-bar-triceps-dips",
+    "name": "Parallel Bar Triceps Dips",
+    "muscle": "Triceps",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/parallel-bar-triceps-dips.webp",
+    "fileName": "parallel-bar-triceps-dips.webp",
+    "repdbId": "dips",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dips-peak.webp"
+  },
+  "barbell-back-squat": {
+    "id": "barbell-back-squat",
+    "name": "Barbell Back Squat",
+    "muscle": "Legs",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/barbell-back-squat.png",
+    "downloadUrl": null
+  },
+  "front-squat": {
+    "id": "front-squat",
+    "name": "Front Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/front-squat.webp",
+    "fileName": "front-squat.webp",
+    "repdbId": "front-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/front-squat-peak.webp"
+  },
+  "goblet-squat": {
+    "id": "goblet-squat",
+    "name": "Goblet Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/goblet-squat.webp",
+    "fileName": "goblet-squat.webp",
+    "repdbId": "goblet-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/goblet-squat-peak.webp"
+  },
+  "hack-squat": {
+    "id": "hack-squat",
+    "name": "Hack Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/hack-squat.webp",
+    "fileName": "hack-squat.webp",
+    "repdbId": "hack-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/hack-squat-peak.webp"
+  },
+  "leg-press": {
+    "id": "leg-press",
+    "name": "Leg Press",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/leg-press.webp",
+    "fileName": "leg-press.webp",
+    "repdbId": "leg-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/leg-press-peak.webp"
+  },
+  "bulgarian-split-squat": {
+    "id": "bulgarian-split-squat",
+    "name": "Bulgarian Split Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/bulgarian-split-squat.webp",
+    "fileName": "bulgarian-split-squat.webp",
+    "repdbId": "bulgarian-split-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/bulgarian-split-squat-peak.webp"
+  },
+  "walking-lunges": {
+    "id": "walking-lunges",
+    "name": "Walking Lunges",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/walking-lunges.webp",
+    "fileName": "walking-lunges.webp",
+    "repdbId": "walking-lunge",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/walking-lunge-peak.webp"
+  },
+  "reverse-lunges": {
+    "id": "reverse-lunges",
+    "name": "Reverse Lunges",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/reverse-lunges.webp",
+    "fileName": "reverse-lunges.webp",
+    "repdbId": "reverse-lunge",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/reverse-lunge-peak.webp"
+  },
+  "forward-lunges": {
+    "id": "forward-lunges",
+    "name": "Forward Lunges",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/forward-lunges.webp",
+    "fileName": "forward-lunges.webp",
+    "repdbId": "lunge",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/lunge-peak.webp"
+  },
+  "step-ups": {
+    "id": "step-ups",
+    "name": "Step-Ups",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/step-ups.webp",
+    "fileName": "step-ups.webp",
+    "repdbId": "step-ups",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/step-ups-peak.webp"
+  },
+  "leg-extension": {
+    "id": "leg-extension",
+    "name": "Leg Extension",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/leg-extension.webp",
+    "fileName": "leg-extension.webp",
+    "repdbId": "leg-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/leg-extension-peak.webp"
+  },
+  "smith-machine-squat": {
+    "id": "smith-machine-squat",
+    "name": "Smith Machine Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/smith-machine-squat.webp",
+    "fileName": "smith-machine-squat.webp",
+    "repdbId": "smith-machine-front-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/smith-machine-front-squat-peak.webp"
+  },
+  "heels-elevated-squat": {
+    "id": "heels-elevated-squat",
+    "name": "Heels-Elevated Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/heels-elevated-squat.webp",
+    "fileName": "heels-elevated-squat.webp",
+    "repdbId": "heel-elevated-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/heel-elevated-squat-peak.webp"
+  },
+  "sissy-squat": {
+    "id": "sissy-squat",
+    "name": "Sissy Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/sissy-squat.webp",
+    "fileName": "sissy-squat.webp",
+    "repdbId": "hack-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/hack-squat-peak.webp"
+  },
+  "split-squat": {
+    "id": "split-squat",
+    "name": "Split Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/split-squat.webp",
+    "fileName": "split-squat.webp",
+    "repdbId": "dumbbell-split-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-split-squat-peak.webp"
+  },
+  "belt-squat": {
+    "id": "belt-squat",
+    "name": "Belt Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/belt-squat.webp",
+    "fileName": "belt-squat.webp",
+    "repdbId": "box-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/box-squat-peak.webp"
+  },
+  "single-leg-leg-press": {
+    "id": "single-leg-leg-press",
+    "name": "Single-Leg Leg Press",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/single-leg-leg-press.webp",
+    "fileName": "single-leg-leg-press.webp",
+    "repdbId": "close-stance-leg-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/close-stance-leg-press-peak.webp"
+  },
+  "wall-sit": {
+    "id": "wall-sit",
+    "name": "Wall Sit",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/wall-sit.webp",
+    "fileName": "wall-sit.webp",
+    "repdbId": "wall-sit",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/wall-sit-main.webp"
+  },
+  "zercher-squat": {
+    "id": "zercher-squat",
+    "name": "Zercher Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/zercher-squat.webp",
+    "fileName": "zercher-squat.webp",
+    "repdbId": "front-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/front-squat-peak.webp"
+  },
+  "bodyweight-squat": {
+    "id": "bodyweight-squat",
+    "name": "Bodyweight Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/bodyweight-squat.webp",
+    "fileName": "bodyweight-squat.webp",
+    "repdbId": "bodyweight-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/bodyweight-squat-peak.webp"
+  },
+  "landmine-squat": {
+    "id": "landmine-squat",
+    "name": "Landmine Squat",
+    "muscle": "Legs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/landmine-squat.webp",
+    "fileName": "landmine-squat.webp",
+    "repdbId": "goblet-squat",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/goblet-squat-peak.webp"
+  },
+  "romanian-deadlift": {
+    "id": "romanian-deadlift",
+    "name": "Romanian Deadlift",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/romanian-deadlift.webp",
+    "fileName": "romanian-deadlift.webp",
+    "repdbId": "romanian-deadlift",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/romanian-deadlift-peak.webp"
+  },
+  "dumbbell-romanian-deadlift": {
+    "id": "dumbbell-romanian-deadlift",
+    "name": "Dumbbell Romanian Deadlift",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-romanian-deadlift.webp",
+    "fileName": "dumbbell-romanian-deadlift.webp",
+    "repdbId": "dumbbell-romanian-deadlift",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-romanian-deadlift-peak.webp"
+  },
+  "stiff-leg-deadlift": {
+    "id": "stiff-leg-deadlift",
+    "name": "Stiff-Leg Deadlift",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/stiff-leg-deadlift.webp",
+    "fileName": "stiff-leg-deadlift.webp",
+    "repdbId": "stiff-leg-deadlift",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/stiff-leg-deadlift-peak.webp"
+  },
+  "seated-leg-curl": {
+    "id": "seated-leg-curl",
+    "name": "Seated Leg Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/seated-leg-curl.webp",
+    "fileName": "seated-leg-curl.webp",
+    "repdbId": "seated-leg-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-leg-curl-peak.webp"
+  },
+  "lying-leg-curl": {
+    "id": "lying-leg-curl",
+    "name": "Lying Leg Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/lying-leg-curl.webp",
+    "fileName": "lying-leg-curl.webp",
+    "repdbId": "leg-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/leg-curl-peak.webp"
+  },
+  "standing-single-leg-curl": {
+    "id": "standing-single-leg-curl",
+    "name": "Standing Single-Leg Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/standing-single-leg-curl.webp",
+    "fileName": "standing-single-leg-curl.webp",
+    "repdbId": "single-leg-lying-leg-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-leg-lying-leg-curl-peak.webp"
+  },
+  "nordic-hamstring-curl": {
+    "id": "nordic-hamstring-curl",
+    "name": "Nordic Hamstring Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/nordic-hamstring-curl.webp",
+    "fileName": "nordic-hamstring-curl.webp",
+    "repdbId": "nordic-hamstring-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/nordic-hamstring-curl-peak.webp"
+  },
+  "glute-ham-raise": {
+    "id": "glute-ham-raise",
+    "name": "Glute-Ham Raise",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/glute-ham-raise.webp",
+    "fileName": "glute-ham-raise.webp",
+    "repdbId": "back-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/back-extension-peak.webp"
+  },
+  "good-morning": {
+    "id": "good-morning",
+    "name": "Good Morning",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/good-morning.webp",
+    "fileName": "good-morning.webp",
+    "repdbId": "smith-machine-good-morning",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/smith-machine-good-morning-peak.webp"
+  },
+  "single-leg-romanian-deadlift": {
+    "id": "single-leg-romanian-deadlift",
+    "name": "Single-Leg Romanian Deadlift",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/single-leg-romanian-deadlift.webp",
+    "fileName": "single-leg-romanian-deadlift.webp",
+    "repdbId": "single-leg-romanian-deadlift",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-leg-romanian-deadlift-peak.webp"
+  },
+  "cable-pull-through": {
+    "id": "cable-pull-through",
+    "name": "Cable Pull-Through",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cable-pull-through.webp",
+    "fileName": "cable-pull-through.webp",
+    "repdbId": "cable-pull-through",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-pull-through-peak.webp"
+  },
+  "stability-ball-leg-curl": {
+    "id": "stability-ball-leg-curl",
+    "name": "Stability Ball Leg Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/stability-ball-leg-curl.webp",
+    "fileName": "stability-ball-leg-curl.webp",
+    "repdbId": "ball-leg-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/ball-leg-curl-peak.webp"
+  },
+  "slider-leg-curl": {
+    "id": "slider-leg-curl",
+    "name": "Slider Leg Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/slider-leg-curl.webp",
+    "fileName": "slider-leg-curl.webp",
+    "repdbId": "ball-leg-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/ball-leg-curl-peak.webp"
+  },
+  "resistance-band-leg-curl": {
+    "id": "resistance-band-leg-curl",
+    "name": "Resistance Band Leg Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/resistance-band-leg-curl.webp",
+    "fileName": "resistance-band-leg-curl.webp",
+    "repdbId": "trx-hamstring-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/trx-hamstring-curl-peak.webp"
+  },
+  "kettlebell-deadlift": {
+    "id": "kettlebell-deadlift",
+    "name": "Kettlebell Deadlift",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/kettlebell-deadlift.webp",
+    "fileName": "kettlebell-deadlift.webp",
+    "repdbId": "kettlebell-deadlift",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/kettlebell-deadlift-peak.webp"
+  },
+  "single-leg-hip-hinge": {
+    "id": "single-leg-hip-hinge",
+    "name": "Single-Leg Hip Hinge",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/single-leg-hip-hinge.webp",
+    "fileName": "single-leg-hip-hinge.webp",
+    "repdbId": "single-leg-romanian-deadlift",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-leg-romanian-deadlift-peak.webp"
+  },
+  "machine-hamstring-curl": {
+    "id": "machine-hamstring-curl",
+    "name": "Machine Hamstring Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/machine-hamstring-curl.webp",
+    "fileName": "machine-hamstring-curl.webp",
+    "repdbId": "seated-leg-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-leg-curl-peak.webp"
+  },
+  "assisted-nordic-curl": {
+    "id": "assisted-nordic-curl",
+    "name": "Assisted Nordic Curl",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/assisted-nordic-curl.webp",
+    "fileName": "assisted-nordic-curl.webp",
+    "repdbId": "nordic-hamstring-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/nordic-hamstring-curl-peak.webp"
+  },
+  "glute-ham-raise-machine": {
+    "id": "glute-ham-raise-machine",
+    "name": "Glute-Ham Raise Machine",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/glute-ham-raise-machine.webp",
+    "fileName": "glute-ham-raise-machine.webp",
+    "repdbId": "machine-back-extension",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/machine-back-extension-peak.webp"
+  },
+  "sumo-deadlift": {
+    "id": "sumo-deadlift",
+    "name": "Sumo Deadlift",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/sumo-deadlift.webp",
+    "fileName": "sumo-deadlift.webp",
+    "repdbId": "sumo-deadlift",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/sumo-deadlift-peak.webp"
+  },
+  "trap-bar-deadlift": {
+    "id": "trap-bar-deadlift",
+    "name": "Trap Bar Deadlift",
+    "muscle": "Hamstrings",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/trap-bar-deadlift.webp",
+    "fileName": "trap-bar-deadlift.webp",
+    "repdbId": "deadlift",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/deadlift-peak.webp"
+  },
+  "standing-calf-raise": {
+    "id": "standing-calf-raise",
+    "name": "Standing Machine Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/standing-calf-raise.webp",
+    "fileName": "standing-calf-raise.webp",
+    "repdbId": "standing-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/standing-calf-raise-peak.webp"
+  },
+  "seated-calf-raise": {
+    "id": "seated-calf-raise",
+    "name": "Seated Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/seated-calf-raise.webp",
+    "fileName": "seated-calf-raise.webp",
+    "repdbId": "seated-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-calf-raise-peak.webp"
+  },
+  "leg-press-calf-press": {
+    "id": "leg-press-calf-press",
+    "name": "Leg Press Calf Press",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/leg-press-calf-press.webp",
+    "fileName": "leg-press-calf-press.webp",
+    "repdbId": "machine-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/machine-calf-raise-peak.webp"
+  },
+  "single-leg-calf-raise": {
+    "id": "single-leg-calf-raise",
+    "name": "Single-Leg Dumbbell Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/single-leg-calf-raise.webp",
+    "fileName": "single-leg-calf-raise.webp",
+    "repdbId": "single-leg-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/single-leg-calf-raise-peak.webp"
+  },
+  "dumbbell-standing-calf-raise": {
+    "id": "dumbbell-standing-calf-raise",
+    "name": "Standing Dumbbell Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-standing-calf-raise.webp",
+    "fileName": "dumbbell-standing-calf-raise.webp",
+    "repdbId": "dumbbell-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-calf-raise-peak.webp"
+  },
+  "smith-machine-calf-raise": {
+    "id": "smith-machine-calf-raise",
+    "name": "Smith Machine Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/smith-machine-calf-raise.webp",
+    "fileName": "smith-machine-calf-raise.webp",
+    "repdbId": "smith-machine-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/smith-machine-calf-raise-peak.webp"
+  },
+  "donkey-calf-raise": {
+    "id": "donkey-calf-raise",
+    "name": "Donkey Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/donkey-calf-raise.webp",
+    "fileName": "donkey-calf-raise.webp",
+    "repdbId": "donkey-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/donkey-calf-raise-peak.webp"
+  },
+  "seated-dumbbell-calf-raise": {
+    "id": "seated-dumbbell-calf-raise",
+    "name": "Seated Dumbbell Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/seated-dumbbell-calf-raise.webp",
+    "fileName": "seated-dumbbell-calf-raise.webp",
+    "repdbId": "seated-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-calf-raise-peak.webp"
+  },
+  "bent-knee-calf-raise": {
+    "id": "bent-knee-calf-raise",
+    "name": "Bent-Knee Calf Raise (Wall / Squat Position)",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/bent-knee-calf-raise.webp",
+    "fileName": "bent-knee-calf-raise.webp",
+    "repdbId": "seated-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-calf-raise-peak.webp"
+  },
+  "bodyweight-standing-calf-raise": {
+    "id": "bodyweight-standing-calf-raise",
+    "name": "Bodyweight Standing Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/bodyweight-standing-calf-raise.webp",
+    "fileName": "bodyweight-standing-calf-raise.webp",
+    "repdbId": "bodyweight-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/bodyweight-calf-raise-peak.webp"
+  },
+  "stair-calf-raise-deficit": {
+    "id": "stair-calf-raise-deficit",
+    "name": "Deficit Stair Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/stair-calf-raise-deficit.webp",
+    "fileName": "stair-calf-raise-deficit.webp",
+    "repdbId": "standing-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/standing-calf-raise-peak.webp"
+  },
+  "hack-squat-calf-raise": {
+    "id": "hack-squat-calf-raise",
+    "name": "Hack Squat Machine Calf Press",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/hack-squat-calf-raise.webp",
+    "fileName": "hack-squat-calf-raise.webp",
+    "repdbId": "hack-squat-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/hack-squat-calf-raise-peak.webp"
+  },
+  "resistance-band-calf-raise": {
+    "id": "resistance-band-calf-raise",
+    "name": "Resistance Band Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/resistance-band-calf-raise.webp",
+    "fileName": "resistance-band-calf-raise.webp",
+    "repdbId": "standing-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/standing-calf-raise-peak.webp"
+  },
+  "isometric-calf-hold": {
+    "id": "isometric-calf-hold",
+    "name": "Isometric Peak Calf Hold",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/isometric-calf-hold.webp",
+    "fileName": "isometric-calf-hold.webp",
+    "repdbId": "standing-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/standing-calf-raise-peak.webp"
+  },
+  "paused-deficit-calf-raise": {
+    "id": "paused-deficit-calf-raise",
+    "name": "Paused Deficit Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/paused-deficit-calf-raise.webp",
+    "fileName": "paused-deficit-calf-raise.webp",
+    "repdbId": "standing-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/standing-calf-raise-peak.webp"
+  },
+  "eccentric-heel-drop": {
+    "id": "eccentric-heel-drop",
+    "name": "Eccentric Heel Drop (Achilles Rehabilitation)",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/eccentric-heel-drop.webp",
+    "fileName": "eccentric-heel-drop.webp",
+    "repdbId": "standing-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/standing-calf-raise-peak.webp"
+  },
+  "farmers-walk-on-toes": {
+    "id": "farmers-walk-on-toes",
+    "name": "Tip-Toe Farmer's Walk",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/farmers-walk-on-toes.webp",
+    "fileName": "farmers-walk-on-toes.webp",
+    "repdbId": "dumbbell-farmers-walk",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-farmers-walk-main.webp"
+  },
+  "tibialis-anterior-raise": {
+    "id": "tibialis-anterior-raise",
+    "name": "Wall Tibialis Anterior Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/tibialis-anterior-raise.webp",
+    "fileName": "tibialis-anterior-raise.webp",
+    "repdbId": "bodyweight-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/bodyweight-calf-raise-peak.webp"
+  },
+  "reverse-calf-raise": {
+    "id": "reverse-calf-raise",
+    "name": "Dumbbell Tibialis / Reverse Calf Raise",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/reverse-calf-raise.webp",
+    "fileName": "reverse-calf-raise.webp",
+    "repdbId": "standing-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/standing-calf-raise-peak.webp"
+  },
+  "jump-rope": {
+    "id": "jump-rope",
+    "name": "Jump Rope (Calf Conditioning & Plyometrics)",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/jump-rope.webp",
+    "fileName": "jump-rope.webp",
+    "repdbId": "box-jump",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/box-jump-peak.webp"
+  },
+  "seated-band-calf-extension": {
+    "id": "seated-band-calf-extension",
+    "name": "Seated Resistance Band Calf Extension",
+    "muscle": "Calves",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/seated-band-calf-extension.webp",
+    "fileName": "seated-band-calf-extension.webp",
+    "repdbId": "seated-calf-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/seated-calf-raise-peak.webp"
+  },
+  "standard-crunch": {
+    "id": "standard-crunch",
+    "name": "Standard Floor Crunch",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/standard-crunch.webp",
+    "fileName": "standard-crunch.webp",
+    "repdbId": "crunches",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/crunches-peak.webp"
+  },
+  "decline-crunch": {
+    "id": "decline-crunch",
+    "name": "Decline Bench Crunch",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/decline-crunch.webp",
+    "fileName": "decline-crunch.webp",
+    "repdbId": "decline-crunch",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/decline-crunch-peak.webp"
+  },
+  "cable-crunch": {
+    "id": "cable-crunch",
+    "name": "Kneeling Cable Crunch",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cable-crunch.webp",
+    "fileName": "cable-crunch.webp",
+    "repdbId": "cable-crunch",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-crunch-peak.webp"
+  },
+  "bicycle-crunch": {
+    "id": "bicycle-crunch",
+    "name": "Bicycle Crunch",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/bicycle-crunch.webp",
+    "fileName": "bicycle-crunch.webp",
+    "repdbId": "bicycle-crunch",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/bicycle-crunch-peak.webp"
+  },
+  "reverse-crunch": {
+    "id": "reverse-crunch",
+    "name": "Reverse Crunch",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/reverse-crunch.webp",
+    "fileName": "reverse-crunch.webp",
+    "repdbId": "reverse-crunches",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/reverse-crunches-peak.webp"
+  },
+  "hanging-knee-raise": {
+    "id": "hanging-knee-raise",
+    "name": "Hanging Knee Raise",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/hanging-knee-raise.webp",
+    "fileName": "hanging-knee-raise.webp",
+    "repdbId": "hanging-knee-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/hanging-knee-raise-peak.webp"
+  },
+  "hanging-leg-raise": {
+    "id": "hanging-leg-raise",
+    "name": "Hanging Straight-Leg Raise",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/hanging-leg-raise.webp",
+    "fileName": "hanging-leg-raise.webp",
+    "repdbId": "hanging-leg-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/hanging-leg-raise-peak.webp"
+  },
+  "captains-chair-leg-raise": {
+    "id": "captains-chair-leg-raise",
+    "name": "Captain's Chair Knee/Leg Raise",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/captains-chair-leg-raise.webp",
+    "fileName": "captains-chair-leg-raise.webp",
+    "repdbId": "captains-chair-leg-raise",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/captains-chair-leg-raise-peak.webp"
+  },
+  "ab-wheel-rollout": {
+    "id": "ab-wheel-rollout",
+    "name": "Ab Wheel Rollout",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/ab-wheel-rollout.webp",
+    "fileName": "ab-wheel-rollout.webp",
+    "repdbId": "ab-wheel-rollout",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/ab-wheel-rollout-peak.webp"
+  },
+  "plank": {
+    "id": "plank",
+    "name": "Elbow / Forearm Plank",
+    "muscle": "Abs",
+    "type": "LOCAL_PRESERVED",
+    "localPath": "/images/exercises/plank.png",
+    "downloadUrl": null
+  },
+  "side-plank": {
+    "id": "side-plank",
+    "name": "Side Plank",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/side-plank.webp",
+    "fileName": "side-plank.webp",
+    "repdbId": "side-plank",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/side-plank-main.webp"
+  },
+  "dead-bug": {
+    "id": "dead-bug",
+    "name": "Dead Bug",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dead-bug.webp",
+    "fileName": "dead-bug.webp",
+    "repdbId": "dead-bug",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dead-bug-peak.webp"
+  },
+  "hollow-body-hold": {
+    "id": "hollow-body-hold",
+    "name": "Hollow Body Hold",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/hollow-body-hold.webp",
+    "fileName": "hollow-body-hold.webp",
+    "repdbId": "hollow-body-hold",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/hollow-body-hold-main.webp"
+  },
+  "mountain-climbers": {
+    "id": "mountain-climbers",
+    "name": "Mountain Climbers (Core & Conditioning)",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/mountain-climbers.webp",
+    "fileName": "mountain-climbers.webp",
+    "repdbId": "mountain-climbers",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/mountain-climbers-peak.webp"
+  },
+  "v-ups": {
+    "id": "v-ups",
+    "name": "V-Ups (Jackknife Crunch)",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/v-ups.webp",
+    "fileName": "v-ups.webp",
+    "repdbId": "v-ups",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/v-ups-peak.webp"
+  },
+  "toe-touches": {
+    "id": "toe-touches",
+    "name": "Vertical Leg Toe Touches",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/toe-touches.webp",
+    "fileName": "toe-touches.webp",
+    "repdbId": "crunches",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/crunches-peak.webp"
+  },
+  "pallof-press": {
+    "id": "pallof-press",
+    "name": "Cable / Band Pallof Press",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/pallof-press.webp",
+    "fileName": "pallof-press.webp",
+    "repdbId": "cable-pallof-press",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-pallof-press-peak.webp"
+  },
+  "russian-twist": {
+    "id": "russian-twist",
+    "name": "Seated Russian Twist",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/russian-twist.webp",
+    "fileName": "russian-twist.webp",
+    "repdbId": "russian-twist",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/russian-twist-peak.webp"
+  },
+  "weighted-sit-ups": {
+    "id": "weighted-sit-ups",
+    "name": "Weighted Sit-Ups",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/weighted-sit-ups.webp",
+    "fileName": "weighted-sit-ups.webp",
+    "repdbId": "sit-ups",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/sit-ups-peak.webp"
+  },
+  "dragon-flag": {
+    "id": "dragon-flag",
+    "name": "Dragon Flag (Bruce Lee Ab Exercise)",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dragon-flag.webp",
+    "fileName": "dragon-flag.webp",
+    "repdbId": "dragon-flag",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dragon-flag-peak.webp"
+  },
+  "stability-ball-crunch": {
+    "id": "stability-ball-crunch",
+    "name": "Stability Ball Crunch",
+    "muscle": "Abs",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/stability-ball-crunch.webp",
+    "fileName": "stability-ball-crunch.webp",
+    "repdbId": "crunches",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/crunches-peak.webp"
+  },
+  "barbell-wrist-curl": {
+    "id": "barbell-wrist-curl",
+    "name": "Seated Barbell Wrist Curl (Over-Bench)",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/barbell-wrist-curl.webp",
+    "fileName": "barbell-wrist-curl.webp",
+    "repdbId": "barbell-wrist-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/barbell-wrist-curl-peak.webp"
+  },
+  "barbell-reverse-wrist-curl": {
+    "id": "barbell-reverse-wrist-curl",
+    "name": "Barbell Reverse Wrist Curl (Extensors)",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/barbell-reverse-wrist-curl.webp",
+    "fileName": "barbell-reverse-wrist-curl.webp",
+    "repdbId": "db-reverse-wrist-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/db-reverse-wrist-curl-peak.webp"
+  },
+  "dumbbell-wrist-curl": {
+    "id": "dumbbell-wrist-curl",
+    "name": "Seated Dumbbell Wrist Curl",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-wrist-curl.webp",
+    "fileName": "dumbbell-wrist-curl.webp",
+    "repdbId": "dumbbell-wrist-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-wrist-curl-peak.webp"
+  },
+  "dumbbell-reverse-wrist-curl": {
+    "id": "dumbbell-reverse-wrist-curl",
+    "name": "Seated Dumbbell Reverse Wrist Curl",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-reverse-wrist-curl.webp",
+    "fileName": "dumbbell-reverse-wrist-curl.webp",
+    "repdbId": "db-reverse-wrist-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/db-reverse-wrist-curl-peak.webp"
+  },
+  "behind-the-back-wrist-curl": {
+    "id": "behind-the-back-wrist-curl",
+    "name": "Standing Behind-the-Back Barbell Wrist Curl",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/behind-the-back-wrist-curl.webp",
+    "fileName": "behind-the-back-wrist-curl.webp",
+    "repdbId": "barbell-wrist-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/barbell-wrist-curl-peak.webp"
+  },
+  "reverse-barbell-forearm-curl": {
+    "id": "reverse-barbell-forearm-curl",
+    "name": "Standing Reverse Barbell Curl",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/reverse-barbell-forearm-curl.webp",
+    "fileName": "reverse-barbell-forearm-curl.webp",
+    "repdbId": "reverse-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/reverse-curl-peak.webp"
+  },
+  "cross-body-forearm-hammer-curl": {
+    "id": "cross-body-forearm-hammer-curl",
+    "name": "Cross-Body Hammer Curl (Forearms Focus)",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/cross-body-forearm-hammer-curl.webp",
+    "fileName": "cross-body-forearm-hammer-curl.webp",
+    "repdbId": "cross-body-hammer-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cross-body-hammer-curl-peak.webp"
+  },
+  "zottman-forearm-rotation-curl": {
+    "id": "zottman-forearm-rotation-curl",
+    "name": "Zottman Curl (Eccentric Forearm Overload)",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/zottman-forearm-rotation-curl.webp",
+    "fileName": "zottman-forearm-rotation-curl.webp",
+    "repdbId": "zottman-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/zottman-curl-peak.webp"
+  },
+  "heavy-farmers-carry": {
+    "id": "heavy-farmers-carry",
+    "name": "Heavy Dumbbell Farmer's Carry / Walk",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/heavy-farmers-carry.webp",
+    "fileName": "heavy-farmers-carry.webp",
+    "repdbId": "dumbbell-farmers-walk",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dumbbell-farmers-walk-main.webp"
+  },
+  "grip-dead-hang": {
+    "id": "grip-dead-hang",
+    "name": "Dead Hang (Grip & Forearm Endurance)",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/grip-dead-hang.webp",
+    "fileName": "grip-dead-hang.webp",
+    "repdbId": "dead-hang",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dead-hang-main.webp"
+  },
+  "towel-grip-hang": {
+    "id": "towel-grip-hang",
+    "name": "Towel Pull-Up Bar Hang",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/towel-grip-hang.webp",
+    "fileName": "towel-grip-hang.webp",
+    "repdbId": "dead-hang",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dead-hang-main.webp"
+  },
+  "plate-pinch-hold": {
+    "id": "plate-pinch-hold",
+    "name": "Two-Handed Weight Plate Pinch Hold",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/plate-pinch-hold.webp",
+    "fileName": "plate-pinch-hold.webp",
+    "repdbId": "plate-pinch",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/plate-pinch-peak.webp"
+  },
+  "wrist-roller": {
+    "id": "wrist-roller",
+    "name": "Wrist Roller (Flexion & Extension)",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/wrist-roller.webp",
+    "fileName": "wrist-roller.webp",
+    "repdbId": "wrist-roller",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/wrist-roller-peak.webp"
+  },
+  "hand-gripper-squeeze": {
+    "id": "hand-gripper-squeeze",
+    "name": "Hand Gripper Squeeze",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/hand-gripper-squeeze.webp",
+    "fileName": "hand-gripper-squeeze.webp",
+    "repdbId": "wrist-roller",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/wrist-roller-peak.webp"
+  },
+  "finger-extension-band": {
+    "id": "finger-extension-band",
+    "name": "Rubber Band Finger Extensions",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/finger-extension-band.webp",
+    "fileName": "finger-extension-band.webp",
+    "repdbId": "wrist-roller",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/wrist-roller-peak.webp"
+  },
+  "dumbbell-pronation-supination": {
+    "id": "dumbbell-pronation-supination",
+    "name": "Dumbbell Pronation & Supination",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/dumbbell-pronation-supination.webp",
+    "fileName": "dumbbell-pronation-supination.webp",
+    "repdbId": "wrist-roller",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/wrist-roller-peak.webp"
+  },
+  "radial-ulnar-deviation": {
+    "id": "radial-ulnar-deviation",
+    "name": "Lever / Sledgehammer Radial & Ulnar Deviation",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/radial-ulnar-deviation.webp",
+    "fileName": "radial-ulnar-deviation.webp",
+    "repdbId": "wrist-roller",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/wrist-roller-peak.webp"
+  },
+  "pinch-grip-deadlift": {
+    "id": "pinch-grip-deadlift",
+    "name": "Pinch Grip Weight Plate Deadlift / Lift",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/pinch-grip-deadlift.webp",
+    "fileName": "pinch-grip-deadlift.webp",
+    "repdbId": "plate-pinch",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/plate-pinch-peak.webp"
+  },
+  "fat-grip-dead-hang": {
+    "id": "fat-grip-dead-hang",
+    "name": "Thick Bar / Fat Grip Hang",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/fat-grip-dead-hang.webp",
+    "fileName": "fat-grip-dead-hang.webp",
+    "repdbId": "dead-hang",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/dead-hang-main.webp"
+  },
+  "behind-back-cable-wrist-curl": {
+    "id": "behind-back-cable-wrist-curl",
+    "name": "Behind-the-Back Cable Wrist Curl",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/behind-back-cable-wrist-curl.webp",
+    "fileName": "behind-back-cable-wrist-curl.webp",
+    "repdbId": "cable-wrist-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/cable-wrist-curl-peak.webp"
+  },
+  "barbell-finger-curls": {
+    "id": "barbell-finger-curls",
+    "name": "Barbell Finger Roll Wrist Curl",
+    "muscle": "Forearms",
+    "type": "DOWNLOADED_WEBP",
+    "localPath": "/images/exercises/barbell-finger-curls.webp",
+    "fileName": "barbell-finger-curls.webp",
+    "repdbId": "barbell-wrist-curl",
+    "downloadUrl": "https://huggingface.co/datasets/RepDB/exercise-dataset/resolve/main/images/flat/barbell-wrist-curl-peak.webp"
+  }
+}
